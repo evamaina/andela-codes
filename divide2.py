@@ -1,2 +1,2 @@
-def divide_two(x,y):
+def divide_two_numbers(x,y):
 	return x/y

@@ -2,4 +2,4 @@
 def divide_two_numbers(a,b):
   return (a/b)
   # calling the function
-print divide_two_numbers(20,5)
+print (divide_two_numbers(20,5))
